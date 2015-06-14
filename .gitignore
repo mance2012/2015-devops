@@ -2,7 +2,6 @@
 /.vagrant
 /cache/
 /coverage/
-/vendor/*
 /tests/coverage/*
 /templates/compilation_cache
 /htmlpurifier_cache
@@ -11,7 +10,6 @@ opencfp.iml
 .buildpath
 .project
 .settings
-composer.phar
 deployment.properties
 deployment.xml
 /scripts
