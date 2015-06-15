@@ -1,0 +1,32 @@
+application:
+  title: OpenCFP
+  url: http://52.25.217.121/
+  email: contact@openconf.com
+  eventurl: http://52.25.217.121/
+  enddate: Oct. 14th, 2016
+  show_submission_count: false
+  airport: MIA
+  arrival: 2014-10-26
+  departure: 2014-10-31
+  secure_ssl: false
+
+api:
+  enabled: true
+
+cache:
+  enabled: false
+
+database:
+  host: 172.31.19.22
+  database: opencfp
+  dsn: mysql:dbname=opencfp;host=localhost
+  user: root
+  password: '123456'
+
+mail:
+  host: ~
+  port: ~
+  username: ~
+  password: ~
+  encryption: ~
+  auth_mode: ~
