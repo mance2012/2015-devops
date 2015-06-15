@@ -6,7 +6,7 @@ environments:
     default_database: development
     production:
         adapter: mysql
-        host: 172.31.19.22
+        host: 172.31.21.129
         name: opencfp
         user: root
         pass: '123456'
