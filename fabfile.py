@@ -5,7 +5,7 @@ from fabric.contrib.files import exists
 from StringIO import StringIO
 import sys
 
-prod_host = '172.31.22.21'
+prod_host = '172.31.24.33'
 user = 'ubuntu'
 
 def environment():
